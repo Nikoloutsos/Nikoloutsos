@@ -1,6 +1,6 @@
 
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 My name is konstantinos Nikoloutsos, I'm from Greece, Studying at the University of AUEB. You can find me on  [![LinkedIn][3.2]][2].
 - 🔭 I’m currently working on myconstructor.gr and as a freelancer

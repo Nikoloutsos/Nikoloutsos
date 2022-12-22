@@ -10,7 +10,7 @@ struct Developer {
   let role = "iOS & DevOps Developer"
   let location = "Greece 🇬🇷🇹"
   let languages = ["GR", "en_US"]
-  let skills = ["Swift", "Bash"]
+  let skills = ["Swift", "Bash", "Java"]
   
   func sayHi() {
     print("Hey, thanks for dropping by, feel free to have a look at my work!")
